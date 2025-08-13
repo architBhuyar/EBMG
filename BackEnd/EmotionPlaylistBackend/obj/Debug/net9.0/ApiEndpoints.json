@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "EmotionPlaylistBackend.Controllers.PlaylistController",
+    "Method": "GetPlaylist",
+    "RelativePath": "api/Playlist/{emotion}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emotion",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmotionPlaylistBackend.Controllers.PlaylistController",
+    "Method": "GetEmotions",
+    "RelativePath": "api/Playlist/emotions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

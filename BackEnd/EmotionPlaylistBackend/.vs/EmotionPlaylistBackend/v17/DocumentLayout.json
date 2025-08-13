@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\models\\playlistsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:models\\playlistsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\models\\emotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:models\\emotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\services\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:services\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\services\\iplaylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:services\\iplaylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|d:\\cdac\\project\\ebpg\\backend\\emotionplaylistbackend\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F15CB-5080-4643-B5F1-7EB248385834}|EmotionPlaylistBackend.csproj|solutionrelative:models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:19:44.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:15:25.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:19:47.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthResponseDto.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:15:52.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:13:30.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaylistSong.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Models\\PlaylistSong.cs",
+              "RelativeDocumentMoniker": "Models\\PlaylistSong.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Models\\PlaylistSong.cs",
+              "RelativeToolTip": "Models\\PlaylistSong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:45:02.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:14:46.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Models\\Playlist.cs",
+              "RelativeDocumentMoniker": "Models\\Playlist.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Models\\Playlist.cs",
+              "RelativeToolTip": "Models\\Playlist.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:40:28.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlaylistService.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Services\\PlaylistService.cs",
+              "RelativeDocumentMoniker": "Services\\PlaylistService.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Services\\PlaylistService.cs",
+              "RelativeToolTip": "Services\\PlaylistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:52:08.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Emotion.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Models\\Emotion.cs",
+              "RelativeDocumentMoniker": "Models\\Emotion.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Models\\Emotion.cs",
+              "RelativeToolTip": "Models\\Emotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:13:11.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlaylistController.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Controllers\\PlaylistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlaylistController.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Controllers\\PlaylistController.cs",
+              "RelativeToolTip": "Controllers\\PlaylistController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:34:34.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPlaylistService.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Services\\IPlaylistService.cs",
+              "RelativeDocumentMoniker": "Services\\IPlaylistService.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Services\\IPlaylistService.cs",
+              "RelativeToolTip": "Services\\IPlaylistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:50:35.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "Models\\Song.cs",
+              "ToolTip": "D:\\cdac\\project\\EBPG\\BackEnd\\EmotionPlaylistBackend\\Models\\Song.cs",
+              "RelativeToolTip": "Models\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:09:18.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

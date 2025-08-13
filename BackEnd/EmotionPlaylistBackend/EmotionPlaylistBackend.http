@@ -1,0 +1,6 @@
+@EmotionPlaylistBackend_HostAddress = http://localhost:5198
+
+GET {{EmotionPlaylistBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
