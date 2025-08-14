@@ -278,3 +278,4 @@ D:\cdac\project\EBPG\BackEnd\EmotionPlaylistBackend\bin\Debug\net9.0\ru\Microsof
 D:\cdac\project\EBPG\BackEnd\EmotionPlaylistBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\cdac\project\EBPG\BackEnd\EmotionPlaylistBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\cdac\project\EBPG\BackEnd\EmotionPlaylistBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\cdac\project\EBPG\BackEnd\EmotionPlaylistBackend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

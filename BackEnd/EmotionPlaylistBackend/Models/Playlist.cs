@@ -8,7 +8,8 @@ namespace EmotionPlaylistBackend.Models
     {
         [Key]
         public int PlaylistId { get; set; }
-        public string Name { get; set; } // e.g., "My Happy Mix"
+        [Required]
+        public string Name { get; set; } 
         public DateTime CreatedAt { get; set; }
 
         public string UserId { get; set; }

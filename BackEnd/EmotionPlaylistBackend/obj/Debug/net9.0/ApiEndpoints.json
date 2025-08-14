@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "EmotionPlaylistBackend.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "EmotionPlaylistBackend.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmotionPlaylistBackend.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/Account/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "EmotionPlaylistBackend.DTOs.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EmotionPlaylistBackend.Controllers.PlaylistController",
     "Method": "GetPlaylist",
     "RelativePath": "api/Playlist/{emotion}",
@@ -17,12 +49,54 @@
   },
   {
     "ContainingType": "EmotionPlaylistBackend.Controllers.PlaylistController",
+    "Method": "DeletePlaylist",
+    "RelativePath": "api/Playlist/{playlistId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playlistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmotionPlaylistBackend.Controllers.PlaylistController",
     "Method": "GetEmotions",
     "RelativePath": "api/Playlist/emotions",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmotionPlaylistBackend.Controllers.PlaylistController",
+    "Method": "GetMyPlaylists",
+    "RelativePath": "api/Playlist/my-playlists",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmotionPlaylistBackend.Controllers.PlaylistController",
+    "Method": "SavePlaylist",
+    "RelativePath": "api/Playlist/save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "savePlaylistDto",
+        "Type": "EmotionPlaylistBackend.DTOs.SavePlaylistDto",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]

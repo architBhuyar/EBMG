@@ -8,8 +8,8 @@ using System.Text;
 
 namespace EmotionPlaylistBackend.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     public class AccountController : ControllerBase
     {
         private readonly UserManager<IdentityUser> _userManager;
@@ -21,7 +21,7 @@ namespace EmotionPlaylistBackend.Controllers
             _configuration = configuration;
         }
 
-        [HttpGet("register")]
+        [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegisterDto registerDto) { 
         
             var userExist = await _userManager.FindByEmailAsync(registerDto.Email);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmotionPlaylistBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad9e5715578f69a30eb71dac1a4f730ecbb8138c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmotionPlaylistBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmotionPlaylistBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
