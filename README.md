@@ -15,7 +15,7 @@ This project was built to demonstrate a modern, full-stack architecture using a 
 ## 🛠️ Tech Stack
 
 ### Backend
-*   **.NET 6:** The core framework for the Web API.
+*   **.NET 9:** The core framework for the Web API.
 *   **ASP.NET Core:** For building the RESTful API endpoints.
 *   **Entity Framework Core:** ORM for interacting with the database.
 *   **SQL Server (or your DB):** The database for storing songs, users, and playlists.
